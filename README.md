@@ -34,7 +34,7 @@ In order to program the project onto an FPGA:
 
 8. 	Select Xilinx -> Program FPGA from the menu at the top of the Xilinx SDK GUI. Click OK.
 
-9.  Right click on the Cora-Z7-10-XADC application project in the Project Explorer to the right, then select Run As -> Launch on Hardware (System Debugger).
+9.  Right click on the application project in the Project Explorer to the left, then select Run As -> Launch on Hardware (System Debugger).
 
 10.  The application will now be running on your Cora. It can be interacted with as described in the first paragraph of this README.
 
