@@ -17,19 +17,19 @@ proj/**
 
 # SDK Workspace: Edit this section to provide the correct names for APPLICATION, BSP, and HW_PLATFORM
 sdk/**
-!sdk/cora_xadc
-sdk/cora_xadc/**
-!sdk/cora_xadc/.project
-!sdk/cora_xadc/.cproject
-!sdk/cora_xadc/src
-!sdk/cora_xadc/src/**
-!sdk/cora_xadc_bsp
-sdk/cora_xadc_bsp/**
-!sdk/cora_xadc_bsp/.project
-!sdk/cora_xadc_bsp/.cproject
-!sdk/cora_xadc_bsp/.sdkproject
-!sdk/cora_xadc_bsp/system.mss
-!sdk/cora_xadc_bsp/Makefile
+!sdk/Cora-Z7-10-XADC
+sdk/Cora-Z7-10-XADC/**
+!sdk/Cora-Z7-10-XADC/.project
+!sdk/Cora-Z7-10-XADC/.cproject
+!sdk/Cora-Z7-10-XADC/src
+!sdk/Cora-Z7-10-XADC/src/**
+!sdk/Cora-Z7-10-XADC_bsp
+sdk/Cora-Z7-10-XADC_bsp/**
+!sdk/Cora-Z7-10-XADC_bsp/.project
+!sdk/Cora-Z7-10-XADC_bsp/.cproject
+!sdk/Cora-Z7-10-XADC_bsp/.sdkproject
+!sdk/Cora-Z7-10-XADC_bsp/system.mss
+!sdk/Cora-Z7-10-XADC_bsp/Makefile
 !sdk/design_1_wrapper_hw_platform_0
 sdk/design_1_wrapper_hw_platform_0/**
 !sdk/design_1_wrapper_hw_platform_0/.project
